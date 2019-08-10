@@ -1,0 +1,8 @@
+.DS_Store
+.lock-waf_darwin_build
+.lock-waf_linux2_build
+.tags
+build/
+tags
+.vscode/ipch/
+.vscode/
